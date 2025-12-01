@@ -1,0 +1,59 @@
+[
+  {
+    "isbn": "978-0-123456-78-9",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "publisher": "Scribner"
+  },
+  {
+    "isbn": "978-0-987654-32-1",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "publisher": "J.B. Lippincott & Co."
+  },
+  {
+    "isbn": "978-0-111111-11-1",
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "publisher": "Secker & Warburg"
+  },
+  {
+    "isbn": "978-0-222222-22-2",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "publisher": "T. Egerton"
+  },
+  {
+    "isbn": "978-0-333333-33-3",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "publisher": "Little, Brown and Company"
+  },
+  {
+    "isbn": "978-0-444444-44-4",
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "year": 1954,
+    "publisher": "Faber and Faber"
+  },
+  {
+    "isbn": "978-0-555555-55-5",
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "year": 1945,
+    "publisher": "Secker & Warburg"
+  },
+  {
+    "isbn": "978-0-666666-66-6",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "year": 1932,
+    "publisher": "Chatto & Windus"
+  }
+]
+
